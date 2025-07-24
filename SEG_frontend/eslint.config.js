@@ -20,6 +20,7 @@ export default defineConfig([
     },
   },
 
+  
   js.configs.recommended,
   ...pluginVue.configs['flat/essential'],
   ...pluginOxlint.configs['flat/recommended'],
